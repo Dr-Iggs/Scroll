@@ -13,7 +13,12 @@ owners = read_xlsx('Rent.xlsx',sheet='Sheet3') %>%
 #SCATTERPLOT------------------
 library(ggrepel)
 
-scatter_own = filter(owners,`Count of Owned`>2)
+scatter_own = owners
+
+scatter_own = filter(scatter_own,`Count of Owned`>2)
+scatter_own$`Sum of Capacity`[9] <- 4134+1435
+scatter_own = filter(scatter_own,`Row Labels`!='Rexburg Housing')
+                                                                    
 ggplot(scatter_own,aes(x=`Sum of Capacity`,y=`Count of Owned`)) + 
   geom_point(color='#A13935',size=5) +
   theme_minimal() +

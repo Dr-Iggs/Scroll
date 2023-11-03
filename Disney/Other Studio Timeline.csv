@@ -1,0 +1,57 @@
+Film,Distributor,Modern,Rank,Money1,Money2,Money3,Year,x,y,isDisney,url
+Gone with the Wind,Metro-Goldwyn-Mayer,Amazon MGM Studios,1,"$1,850,581,586","$200,882,193",202286200,1939,2,30,No,https://image.tmdb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg
+E.T. the Extra-Terrestrial,Universal Pictures,Universal Pictures,4,"$1,297,730,421","$437,141,279",141854300,1982,8,30,No,https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
+Titanic,Paramount Pictures,Paramount Pictures,5,"$1,240,054,754","$674,292,608",135549800,1997,10,30,No,https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg
+The Ten Commandments,Paramount Pictures,Paramount Pictures,6,"$1,198,431,667","$65,500,000",131000000,1956,12,30,No,https://image.tmdb.org/t/p/w500/2rBUaC6ngeFmYXjL4KA3eLjt5wA.jpg
+Jaws,Universal Pictures,Universal Pictures,7,"$1,172,447,655","$265,859,065",128159700,1975,14,30,No,https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg
+Doctor Zhivago,Metro-Goldwyn-Mayer,Amazon MGM Studios,8,"$1,135,632,932","$111,721,910",124135500,1965,16,30,No,https://image.tmdb.org/t/p/w500/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg
+The Exorcist,Warner Bros. Pictures,Warner Bros. Pictures,9,"$1,011,798,348","$233,005,644",110599200,1973,18,30,No,https://image.tmdb.org/t/p/w500/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg
+Ben-Hur,Metro-Goldwyn-Mayer,Amazon MGM Studios,14,"$896,965,723","$74,432,704",98046900,1959,8,27,No,https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg
+Jurassic Park,Universal Pictures,Universal Pictures,18,"$839,814,255","$407,185,075",91799700,1993,16,27,No,https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg
+The Sting,Universal Pictures,Universal Pictures,21,"$815,508,963","$156,000,000",89142900,1973,2,24,No,https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg
+The Graduate,Embassy Pictures,Sony Pictures,23,"$782,885,092","$104,945,305",85576800,1967,6,24,No,https://image.tmdb.org/t/p/w500/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg
+The Godfather,Paramount Pictures,Paramount Pictures,25,"$722,009,337","$136,381,073",78922500,1972,10,24,No,https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+Forrest Gump,Paramount Pictures,Paramount Pictures,26,"$719,398,403","$330,455,270",78637100,1994,12,24,No,https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg
+Grease,Paramount Pictures,Paramount Pictures,28,"$705,323,692","$190,071,103",77098600,1978,16,24,No,https://image.tmdb.org/t/p/w500/czVhhAaSBFpakur7U8pOIDV9NUG.jpg
+Jurassic World,Universal Pictures,Universal Pictures,30,"$702,609,382","$653,406,625",76801900,2015,20,24,No,https://image.tmdb.org/t/p/w500/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg
+Thunderball,United Artists,Amazon MGM Studios,32,"$684,295,333","$63,595,658",74800000,1965,4,21,No,https://image.tmdb.org/t/p/w500/kQdyq96yvqrPCkLdaiucsE92neO.jpg
+The Dark Knight,Warner Bros. Pictures,Warner Bros. Pictures,33,"$681,216,919","$534,987,076",74463500,2008,6,21,No,https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg
+Ghostbusters,Columbia Pictures,Sony Pictures,37,"$652,072,159","$243,578,797",71277700,1984,14,21,No,https://image.tmdb.org/t/p/w500/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg
+Shrek 2,Dreamworks,Universal Pictures,38,"$649,997,317","$441,226,247",71050900,2004,16,21,No,https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg
+Spider-Man,Sony Pictures Releasing,Sony Pictures,39,"$646,112,934","$407,022,860",70626300,2002,18,21,No,https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg
+Love Story,Paramount Pictures,Paramount Pictures,41,"$640,515,984","$106,550,690",70014500,1970,2,18,No,https://image.tmdb.org/t/p/w500/yCjADq9fwbdPnxMo0DKNeRGZ4YC.jpg
+Top Gun: Maverick,Paramount Pictures,Paramount Pictures,43,NA,NA,NA,2022,6,18,No,https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
+Beverly Hills Cop,Paramount Pictures,Paramount Pictures,48,"$614,310,583","$234,760,478",67150000,1984,16,18,No,https://image.tmdb.org/t/p/w500/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg
+Goldfinger,United Artists,Amazon MGM Studios,49,"$606,534,500","$51,081,062",66300000,1964,18,18,No,https://image.tmdb.org/t/p/w500/6fTzum7gSpLWww26WvWjETNqfD9.jpg
+Airport,Universal Pictures,Universal Pictures,51,"$604,808,209","$100,489,151",66111300,1970,2,15,No,https://image.tmdb.org/t/p/w500/6iOKluJfyiU1SLZbGYrY7Z0i6k0.jpg
+American Graffiti,Universal Pictures,Universal Pictures,52,"$601,176,321","$115,000,000",65714300,1973,4,15,No,https://image.tmdb.org/t/p/w500/1yFdtOV0b9UBUoBNbw0ZcyLbadk.jpg
+Around the World in 80 Days,United Artists,Amazon MGM Studios,55,"$591,123,218","$42,000,000",64615400,1956,10,15,No,https://image.tmdb.org/t/p/w500/bBiMw6Jtg8tSTcEq8jFV7qk9TRW.jpg
+Blazing Saddles,Warner Bros. Pictures,Warner Bros. Pictures,58,"$578,536,941","$119,616,663",63239600,1974,16,15,No,https://image.tmdb.org/t/p/w500/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg
+Batman,Warner Bros. Pictures,Warner Bros. Pictures,59,"$576,091,591","$251,409,241",62972300,1989,18,15,No,https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg
+The Bells of St. Mary's,RKO Radio Pictures,Warner Bros. Pictures,60,"$574,013,090","$21,333,333",62745100,1945,20,15,No,https://image.tmdb.org/t/p/w500/e2REwGOzsD21acHSRcXcXzkQmUi.jpg
+The Lord of the Rings: The Return of the King,20th Century Fox,Amazon MGM Studios,61,"$563,900,522","$379,427,292",61639700,2003,2,12,No,https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+Spider-Man 2,Sony Pictures Releasing,Sony Pictures,67,"$550,351,840","$373,585,825",60158700,2004,14,12,No,https://image.tmdb.org/t/p/w500/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg
+My Fair Lady,Warner Bros. Pictures,Warner Bros. Pictures,68,"$549,469,026","$72,560,711",60062200,1964,16,12,No,https://image.tmdb.org/t/p/w500/bTXVc29lGSNclf94VIZ49W4gGKl.jpg
+The Greatest Show on Earth,Paramount Pictures,Paramount Pictures,69,"$548,900,000","$36,000,000",60000000,1952,18,12,No,https://image.tmdb.org/t/p/w500/cKI0yGPRh1IlvRKKJRoMZruior8.jpg
+Barbie,Warner Bros. Pictures,Warner Bros. Pictures,70,NA,NA,NA,2023,20,12,No,https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg
+National Lampoon's Animal House,Universal Pictures,Universal Pictures,71,"$547,896,428","$141,600,000",59890300,1978,2,9,No,https://image.tmdb.org/t/p/w500/iCo7xLOXFzmf8bwHU4h7IkfkSF9.jpg
+The Passion of the Christ,Newmarket Films,Lionsgate,72,"$546,199,412","$370,782,930",59704800,2004,4,9,No,https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg
+Back to the Future,Universal Pictures,Universal Pictures,74,"$542,087,236","$212,836,762",59255300,1985,8,9,No,https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg
+The Lord of the Rings: The Two Towers,20th Century Fox,Amazon MGM Studios,75,"$528,091,201","$342,952,511",57725400,2002,10,9,No,https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
+The Dark Knight Rises,Warner Bros. Pictures,Warner Bros. Pictures,76,"$526,777,500","$448,149,584",57581800,2012,12,9,No,https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
+Superman,Warner Bros. Pictures,Warner Bros. Pictures,78,"$524,967,960","$134,478,449",57384000,1978,16,9,No,https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg
+Tootsie,Columbia Pictures,Sony Pictures,79,"$520,575,845","$177,200,000",56903900,1982,18,9,No,https://image.tmdb.org/t/p/w500/x9cBsqf64j8e5a8PwThT3I6sHFK.jpg
+Smokey and the Bandit,Universal Pictures,Universal Pictures,81,"$519,926,313","$126,737,428",56832900,1977,2,6,No,https://image.tmdb.org/t/p/w500/pNm0neie5Q6I7AsIsGnqxEVk44f.jpg
+Harry Potter and the Sorcerer's Stone,Warner Bros. Pictures,Warner Bros. Pictures,83,"$513,616,708","$318,886,962",56143200,2001,6,6,No,https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg
+West Side Story,United Artists,Amazon MGM Studios,84,"$512,423,765","$44,055,492",56012800,1961,8,6,No,https://image.tmdb.org/t/p/w500/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg
+Close Encounters of the Third Kind,Columbia Pictures,Sony Pictures,85,"$511,600,415","$135,189,114",55922800,1977,10,6,No,https://image.tmdb.org/t/p/w500/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg
+Lawrence of Arabia,Columbia Pictures,Sony Pictures,87,"$507,156,155","$45,306,425",55437000,1962,14,6,No,https://image.tmdb.org/t/p/w500/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg
+Rocky,United Artists,Amazon MGM Studios,89,"$503,524,267","$117,235,147",55040000,1976,18,6,No,https://image.tmdb.org/t/p/w500/cqxg1CihGR5ge0i1wYXr4Rdeppu.jpg
+The Best Years of Our Lives,RKO Radio Pictures,Warner Bros. Pictures,90,"$503,158,333","$23,650,000",55000000,1946,20,6,No,https://image.tmdb.org/t/p/w500/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg
+The Lord of the Rings: The Fellowship of the Ring,20th Century Fox,Amazon MGM Studios,93,"$501,323,178","$316,115,420",54799400,2001,6,3,No,https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+Twister,Warner Bros. Pictures,Warner Bros. Pictures,94,"$500,304,968","$241,830,615",54688100,1996,8,3,No,https://image.tmdb.org/t/p/w500/6tagtmPVOG4QqraQ4piUFLoqaoj.jpg
+Men in Black,Sony Pictures Releasing,Sony Pictures,95,"$499,651,777","$250,690,539",54616700,1997,10,3,No,https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg
+The Bridge on the River Kwai,Columbia Pictures,Sony Pictures,96,"$497,669,333","$27,200,000",54400000,1957,12,3,No,https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg
+Super Mario Bros. Movie,Universal Pictures,Universal Pictures,97,NA,NA,NA,2023,14,3,No,https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg
+Transformers: Revenge of the Fallen,Paramount Pictures,Paramount Pictures,98,"$493,103,400","$402,111,870",53900900,2009,16,3,No,https://image.tmdb.org/t/p/w500/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg
+It's a Mad Mad Mad Mad World,United Artists,Amazon MGM Studios,99,"$492,870,118","$46,332,858",53875400,1963,18,3,No,https://image.tmdb.org/t/p/w500/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg
