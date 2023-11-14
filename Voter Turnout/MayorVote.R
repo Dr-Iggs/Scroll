@@ -13,14 +13,16 @@ mayors <- read_xlsx('Mayor.xlsx',sheet="Cities")  %>%
 # PERCENTAGE OF NON-STUDENT VOTER AGE THAT VOTED
 ggplot(mayors,aes(y=reorder(City,voteperc,'desc'),x=voteperc,fill=color,label=paste0(round(voteperc,1), '%'))) + 
   geom_col() +
-  geom_text(nudge_x=4) +
+  geom_text(nudge_x=3) +
   theme_minimal() +
   scale_fill_manual(values=c('Yes'='#A13935','No'='grey'))+
-  theme(legend.position='none') +
+  theme(legend.position='none',
+        panel.grid.minor = element_blank(),
+        panel.grid.major.y=element_blank()) +
   labs(y='College Town',x='Turnout of non-student voting-age population',
-       title='Even without the school, Rexburg turnout is low',
+       title='Even after removing university students, Rexburg turnout is low',
        caption='From each city\'s most recent election') +
-    scale_x_continuous(breaks=seq(0,40,10),labels=c('0%','10%','20%','30%','40%'))
+    scale_x_continuous(breaks=seq(0,60,10),labels=c('0%','10%','20%','30%','40%','50%','60%'))
 
 # PERCENTAGE OF VOTER AGE THAT VOTED
 mayors2 <- mayors %>%
@@ -31,9 +33,11 @@ ggplot(mayors2,aes(y=reorder(City,voteperc,'desc'),x=voteperc,fill=color,label=p
   geom_text(nudge_x=1.5) +
   theme_minimal() +
   scale_fill_manual(values=c('Yes'='#A13935','No'='grey'))+
-  theme(legend.position='none') +
+  theme(legend.position='none',
+        panel.grid.minor = element_blank(),
+        panel.grid.major.y=element_blank()) +
   labs(y='College Town',x='Turnout of voting-age population',
-       title='Overall local election turnout by city',
+       title='Overall mayoral election turnout by city',
        caption='From each city\'s most recent election') +
   scale_x_continuous(breaks=seq(0,40,10),labels=c('0%','10%','20%','30%','40%'))
 
@@ -42,12 +46,14 @@ ggplot(mayors2,aes(y=reorder(City,voteperc,'desc'),x=voteperc,fill=color,label=p
 ggplot(mayors,aes(y=reorder(City,`Student Pop`/Pop2020),x=`Student Pop`/Pop2020,
                   fill=color,label = paste0(round(`Student Pop`/Pop2020*100,0),'%'))) + 
   geom_col() +
-  geom_text(nudge_x=.03) +
+  geom_text(nudge_x=.025) +
   theme_minimal() +
   scale_fill_manual(values=c('Yes'='#A13935','No'='grey'))+
-  theme(legend.position='none') +
+  theme(legend.position='none',
+        panel.grid.minor = element_blank(),
+        panel.grid.major.y=element_blank()) +
   labs(y='College Town',x='Student population as a percent of total population',
-       title='Towns with a high population of students',
+       title='How much of the town is enrolled at the university?',
        caption='Based on election year enrollment and 2020 census') +
   scale_x_continuous(breaks=seq(0,.6,.2),labels=c('0%','20%','40%','60%'))
 
@@ -78,7 +84,10 @@ ggplot(stacked2,aes(x=value,y=City,fill=name)) +
 
 
 
-
+ggplot(mayors,aes(x=`Student Pop`/Pop2020,y=VotesCast/(Pop2020-`Student Pop`),label=City)) + geom_point() +
+  geom_text() +
+  labs(x='Percentage of the town that\'s a student',
+       y='Percentage of the town that votes')
 
 
 

@@ -1,0 +1,166 @@
+,Unnamed: 0,Name,Won,Year,Latitude,Longitude,isPartial
+0,1,Baltimore/Washington International (BWI) Thurgood Marshall Airport,Yes,2023,39.1775715,-76.6683889,TRUE
+1,2,"Snowbasin Resort (Huntsville, Utah)",No,2023,41.2006148,-111.8614496,TRUE
+2,3,"Rabbit Hole (Greenville, South Carolina)",No,2023,34.847633,-82.4290513,TRUE
+3,4,"Little America Hotel (Salt Lake City, Utah)",No,2023,40.7577957,-111.8920217,TRUE
+4,5,"Juban’s Creole Restaurant (Baton Rouge, Louisiana)",No,2023,30.4212223,-91.1504093,TRUE
+5,6,"Hell ‘n Blazes Brewing Company (Melbourne, Florida)",No,2023,28.0786249,-80.6041805,TRUE
+6,7,"Frying Pan (New York, New York)",No,2023,40.7523256,-74.0094698,TRUE
+7,8,"El Rio (San Francisco, California)",No,2023,37.746794,-122.419409,TRUE
+8,9,"Drusie & Darr (Nashville, Tennessee)",No,2023,36.163685,-86.7825982,TRUE
+9,10,"Clear Lake and Des Moines River Safety Rest Areas (Jackson, Minnesota)",No,2023,43.6404606,-95.0207462,TRUE
+10,12,Tampa International Airport,No,2022,27.9769744,-82.5301731,TRUE
+11,13,"Tori Tori – Orlando, FL",No,2022,28.5540171,-81.364687,TRUE
+12,14,"Stone Mountain Public House – Stone Mountain, GA",No,2022,33.8074853,-84.1703123,TRUE
+13,15,"North Hollywood Recreation Center – North Hollywood, CA",No,2022,34.1674231,-118.3801452,TRUE
+14,16,"No. 5 Bistro & Bar – Sedalia, MO",No,2022,38.711811,-93.2277374,TRUE
+15,17,"Newark Liberty International Airport Terminal B All-Gender Restroom – Newark, NJ",No,2022,40.6904712,-74.1776044,TRUE
+16,18,"La Pâtisserie – Charleston, SC",No,2022,32.787348,-79.9370498,TRUE
+17,19,"Headlands Lodge and Spa – Pacific City, OR",No,2022,45.215908,-123.9710998,TRUE
+18,20,"Eberly – Austin, TX",No,2022,30.2585895,-97.7588646,TRUE
+19,21,"Delaware Botanic Gardens – Dagsboro, DE",No,2022,38.5632197,-75.2216257,TRUE
+20,23,"Two Cities Pizza Cincinnati, OH",Yes,2021,39.1031182,-84.5120196,TRUE
+21,24,William S. Craycraft Park,No,2021,33.6205966,-117.6736082,TRUE
+22,25,The Fed Community,No,2021,42.7352995,-83.4194409,TRUE
+23,26,Steamboat Springs,No,2021,40.4849769,-106.8317158,
+24,27,Pump House,No,2021,0,0,TRUE
+25,28,Planet Word,No,2021,38.9021492,-77.0293655,TRUE
+26,29,Nan Thai Fine Dining,No,2021,33.791638,-84.389488,TRUE
+27,30,JFK Airport’s Terminal 4,No,2021,40.6440322,-73.782443,TRUE
+28,31,Fancy Flush,No,2021,0,0,TRUE
+29,32,Core 24 GVL,No,2021,0,0,TRUE
+30,34,"Bancroft Park Colorado Springs, CO",Yes,2020,38.8468802,-104.8612254,TRUE
+31,35,The Guild Hotel,No,2020,32.7160035,-117.1678019,TRUE
+32,36,Swift’s Attic,No,2020,30.2656345,-97.7433776,TRUE
+33,37,Scottsdale Center for the Performing Arts,No,2020,33.4920692,-111.922409,TRUE
+34,38,Portland Japanese Garden,No,2020,45.5188634,-122.7080354,TRUE
+35,39,Kimpton Muse Hotel,No,2020,0,0,TRUE
+36,40,Greeley Square Park,No,2020,40.7487058,-73.9883382,TRUE
+37,41,Gaslight Bar & Grill,No,2020,41.749025,-77.299644,TRUE
+38,42,DFW Airport,No,2020,32.8998091,-97.0403352,TRUE
+39,43,AirTrain JFK’S Jamaica Station,No,2020,40.698758,-73.8088464,TRUE
+40,45,"Nashville Zoo Nashville, TN",Yes,2019,36.089705,-86.742096,TRUE
+41,46,Sea–Tac,No,2019,47.4435903,-122.2960726,
+42,47,New Museum of Contemporary Art,No,2019,40.7223376,-73.9928905,TRUE
+43,48,Natick Mall,No,2019,42.3009186,-71.384274,TRUE
+44,49,Mourad,No,2019,37.7867734,-122.3999748,TRUE
+45,50,LaGuardia Airport Terminal B,No,2019,40.7769271,-73.8739659,TRUE
+46,51,La Belle Helene,No,2019,35.2256085,-80.8457662,TRUE
+47,52,Jupiter Next,No,2019,45.522727,-122.6562693,TRUE
+48,53,Jianna Restaurant,No,2019,34.8451108,-82.4022569,TRUE
+49,54,Butcher and the Brewer,No,2019,41.4991465,-81.6900132,TRUE
+50,56,"J.N. Ding Darling National Wildlife Refuge Sanibel, Fla",Yes,2018,26.4465928,-82.1133987,TRUE
+51,57,The Progress,No,2018,0,0,TRUE
+52,58,The Mud House,No,2018,0,0,TRUE
+53,59,Morgan Manufacturing,No,2018,41.8895808,-87.6516783,TRUE
+54,60,MI VIDA,No,2018,30.0075005,31.5398548,
+55,61,"Hotel La Jolla, Curio Collection by Hilton",No,2018,32.851203,-117.2532338,TRUE
+56,62,Green Bay Botanical Garden,No,2018,44.5311737,-88.0983591,TRUE
+57,63,Dream Hollywood Hotel,No,2018,34.0999975,-118.3301556,TRUE
+58,64,Bryant Park,No,2018,40.7535965,-73.9832326,TRUE
+59,65,Barrio,No,2018,0,0,TRUE
+60,67,"OdySea Aquarium Scottsdale, Ariz",Yes,2017,33.5547243,-111.8776558,TRUE
+61,68,Sinema Restaurant + Bar,No,2017,36.1223838,-86.7753182,TRUE
+62,69,Renaissance Chicago Downtown Hotel,No,2017,41.8862002,-87.6283129,TRUE
+63,70,Palmetto Brewery,No,2017,32.801386,-79.9458909,TRUE
+64,71,Off The Waffle,No,2017,0,0,TRUE
+65,72,Museum of Modern Art,No,2017,40.7614327,-73.9776216,TRUE
+66,73,La Boucherie on 71,No,2017,46.5827512,4.486671,TRUE
+67,74,Elsa,No,2017,0,0,TRUE
+68,75,Doughnut Plant,No,2017,0,0,TRUE
+69,76,Carmel Beach,No,2017,36.5521696,-121.9298893,
+70,78,Minneapolis-St. Paul International Airport,Yes,2016,44.8849345,-93.2131232,TRUE
+71,79,Urban Ecology Center,No,2016,29.553187,-98.5292446,TRUE
+72,80,The Way Station,No,2016,0,0,TRUE
+73,81,The Vine,No,2016,0,0,TRUE
+74,82,The Novel Neighbor,No,2016,38.5949717,-90.3345277,TRUE
+75,83,The Charmery,No,2016,39.3311116,-76.6295575,TRUE
+76,84,Swift & Sons,No,2016,41.8868727,-87.6523403,TRUE
+77,85,Safe House,No,2016,0,0,TRUE
+78,86,Leña Brava,No,2016,41.8846048,-87.6499319,TRUE
+79,87,Coca-Cola Park,No,2016,40.6252117,-75.4517643,TRUE
+80,89,"Minturn, Colorado",Yes,2015,39.5878615,-106.4307274,
+81,90,The Salty Pig,No,2015,42.3468985,-71.0761172,TRUE
+82,91,The Music Hall,No,2015,43.0758054,-70.7594644,TRUE
+83,92,The Fitton Center for Creative Arts,No,2015,39.3994434,-84.5655483,TRUE
+84,93,Strataca,No,2015,38.0434451,-97.8678029,TRUE
+85,94,Perry Lakes Park,No,2015,32.697966,-87.260727,TRUE
+86,95,OB Warehouse,No,2015,32.7450417,-117.2484278,TRUE
+87,96,Great American Ball Park,No,2015,39.0973808,-84.5070671,TRUE
+88,97,Cibo Wine Bar,No,2015,0,0,TRUE
+89,98,Charleston Distilling,No,2015,32.7305982,-80.0577034,TRUE
+90,100,"Longwood Gardens Philadelphia, Pennsylvania",Yes,2014,39.954979,-75.170344,TRUE
+91,101,Trail Restroom,No,2014,30.2555445,-97.7398092,TRUE
+92,102,Tiki Lounge,No,2014,0,0,TRUE
+93,103,The Grove,No,2014,34.0719407,-118.3575164,TRUE
+94,104,The Fabulous Fox Theater,No,2014,0,0,TRUE
+95,105,Plums Café,No,2014,33.6311836,-117.9136513,TRUE
+96,106,Mai Kai,No,2014,26.1724319,-80.1199646,TRUE
+97,107,El Centro,No,2014,32.792,-115.5630514,
+98,108,Bowl Plaza,No,2014,0,0,TRUE
+99,109,American Girl Place,No,2014,0,0,TRUE
+100,111,"Varsity Theater Minneapolis, Minnesota",Yes,2013,44.980755,-93.2368268,TRUE
+101,112,Westfield Garden State Plaza,No,2013,40.9181729,-74.076331,TRUE
+102,113,Waldorf Astoria New York,No,2013,40.7562423,-73.9728559,TRUE
+103,114,Viracocha,No,2013,0,0,TRUE
+104,115,Tampa International Airport,No,2013,27.9769744,-82.5301731,TRUE
+105,116,Sloan’s Ice Cream,No,2013,0,0,TRUE
+106,117,Public Glass Bathrooms on the Square,No,2013,37.7279379,-122.3950084,TRUE
+107,118,John Michael Kohler Arts Center,No,2013,43.7525124,-87.710426,TRUE
+108,119,Ground Kontrol Classic Arcade,No,2013,45.5240953,-122.6756522,TRUE
+109,120,Alex Madonna Gold Rush Steak House,No,2013,35.2673269,-120.6745884,TRUE
+110,122,"Buc-ees New Braunfels, Texas",Yes,2012,29.726334,-98.0783334,TRUE
+111,123,Radisson Blu Aqua Hotel,No,2012,41.88658,-87.6201552,TRUE
+112,124,Liberty Market,No,2012,31.5105829,74.3444508,
+113,125,Lane Stadium at Virginia Tech,No,2012,37.2199873,-80.4180643,TRUE
+114,126,Hollywood Bowl,No,2012,34.112224,-118.3391279,TRUE
+115,128,"The Field Museum Chicago, IL",Yes,2011,41.866261,-87.6169805,TRUE
+116,129,The Scottsdale Center for the Performing Arts,No,2011,33.4920692,-111.922409,TRUE
+117,130,Snowbasin Ski Resort,No,2011,41.2006148,-111.8614496,TRUE
+118,131,Renaissance Arlington Capital View Hotel,No,2011,38.8478104,-77.0514267,TRUE
+119,132,Don’s John’s Presidential Luxury Restroom Trailer,No,2011,38.3031837,-77.4605399,TRUE
+120,134,"The Fountain on Locust St. Louis, Missouri",Yes,2010,38.6361553,-90.2230418,TRUE
+121,135,The Muse Hotel,No,2010,40.7577985,-73.9837623,TRUE
+122,136,Grand America Hotel,No,2010,40.7573321,-111.8907499,TRUE
+123,137,Embassy Theatre,No,2010,41.0757369,-85.1397624,TRUE
+124,138,Bryant Park,No,2010,40.7535965,-73.9832326,TRUE
+125,140,"The Shoji Tabuchi Theater Branson, Missouri",Yes,2009,36.6534297,-93.2823404,TRUE
+126,141,"Zeffirino Ristorante Venetian Resort, Hotel & Casino",No,2009,36.1221154,-115.1694607,TRUE
+127,142,The Tremont Plaza Hotel,No,2009,0,0,TRUE
+128,143,The Drake Hotel Palm Court,No,2009,41.9004365,-87.6234056,TRUE
+129,144,Radio City Music Hall,No,2009,40.759976,-73.9799772,TRUE
+130,146,"The Hermitage Hotel Nashville, Tennessee",Yes,2008,36.1637611,-86.7823611,TRUE
+131,147,The Signature Room at the 95th,No,2008,41.8989565,-87.6234079,TRUE
+132,148,Smith College Museum of Art,No,2008,42.318502,-72.6363775,TRUE
+133,149,Brio Restaurant,No,2008,0,0,TRUE
+134,150,21C Museum Hotel,No,2008,38.6316145,-90.2024748,TRUE
+135,152,"Jungle Jims International Market Fairfield, Ohio",Yes,2007,39.3354869,-84.5253006,TRUE
+136,153,Vermont Marble Museum,No,2007,43.6630413,-73.0351007,TRUE
+137,154,Mix Lounge at Mandalay Bay,No,2007,36.0921847,-115.1748583,TRUE
+138,155,Fandangles’ Restaurant,No,2007,33.759,-84.383167,TRUE
+139,156,Catch 31,No,2007,36.8592025,-75.9777478,TRUE
+140,158,"Wendells Restaurant Westerville, Ohio",Yes,2006,40.150444,-82.9224319,TRUE
+141,159,Quad City International Airport,No,2006,41.4496341,-90.5082706,TRUE
+142,160,Hemenway’s,No,2006,41.8242135,-71.4069133,TRUE
+143,161,Borgata Hotel Casino and Spa,No,2006,39.3783214,-74.4352672,TRUE
+144,162,All Season’s Bistro,No,2006,0,0,TRUE
+145,164,"Fort Smith Regional Airport Fort Smith, Arkansas",Yes,2005,35.3375476,-94.3656122,TRUE
+146,165,The Madonna Inn,No,2005,35.2674132,-120.6746599,TRUE
+147,166,Columbia Tower Club,No,2005,47.6045065,-122.3304838,TRUE
+148,167,Blue Gate Restaurant,No,2005,41.6766789,-85.5804411,TRUE
+149,168,Associated Travel Group,No,2005,0,0,TRUE
+150,170,"Kohler Art Center Sheboygen, Wisconsin",Yes,2004,43.7525124,-87.710426,TRUE
+151,171,"Wall USA, Inc",No,2004,37.09024,-95.712891,TRUE
+152,172,Waffle House of America,No,2004,42.2177382,-86.0546978,TRUE
+153,173,Olivia’s Circle Fitness Center,No,2004,35.245526,-78.3536625,TRUE
+154,174,Art Chicks Club,No,2004,41.0015936,-96.1653536,TRUE
+155,176,"The Grand Casino Biloxi, Mississippi",Yes,2003,30.3926522,-88.8659608,TRUE
+156,177,Yavneh Day School,No,2003,37.2529816,-121.9613769,TRUE
+157,178,Summit Restaurant,No,2003,39.2085996,-84.3675668,TRUE
+158,179,Madonna Manor Hotel,No,2003,35.2674132,-120.6772348,TRUE
+159,180,CJ’s 19th Hole,No,2003,40.412905,-75.380021,TRUE
+160,182,University of Notre Dame,Yes,2002,41.7050504,-86.2355439,TRUE
+161,183,Lee Davis Texaco,No,2002,37.6168398,-77.3399402,TRUE
+162,184,Lazarus Oxmoor Center,No,2002,38.2474931,-85.610378,TRUE
+163,185,Columbia Tower Club,No,2002,47.6045065,-122.3304838,TRUE
+164,186,Bon Marche Department Store,No,2002,48.851189,2.324446,TRUE
