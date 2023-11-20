@@ -116,16 +116,17 @@ ggplot(streaks,aes(y=reorder(Company,`Number of consecutive top 100 films by the
 year <- arrange(movies,Year)
 year$x <- rep(seq(1:10),10) * 2
 year$y <- c(rep(10,10),rep(9,10),rep(8,10),rep(7,10),rep(6,10),rep(5,10),rep(4,10),rep(3,10),rep(2,10),rep(1,10)) * 3
-year$order <- 'ByYear'
+year$order <- 'By Year'
 rank <- arrange(movies,Rank)
 rank$x <- rep(seq(1:10),10) * 2
 rank$y <- c(rep(10,10),rep(9,10),rep(8,10),rep(7,10),rep(6,10),rep(5,10),rep(4,10),rep(3,10),rep(2,10),rep(1,10)) * 3
-rank$order <- 'ByRank'
+rank$order <- 'By Rank'
 
 movies <- add_row(year, rank)
 # Set the number of rows and columns in the grid
 n_rows <- 10
 n_cols <- 10
+
 
 # Create a new variable for grid positioning
 #movies <- arrange(movies,Rank)
@@ -135,21 +136,52 @@ movies$isDisney <- ifelse(movies$Modern=='Walt Disney Studios','Yes','No')
 
 ggplot(movies, aes(x = x, y = y)) +
   geom_image(aes(image = url),size=.063) +
-  geom_tile(aes(alpha=isDisney,fill=Modern)) +
-  scale_alpha_manual(values =c('Yes'= .7,'No'=0.5)) +
-  scale_fill_brewer(palette = "Set3") +  # Choose a color palette
+  #geom_tile(aes(fill=Modern)) +
+  #scale_alpha_manual(values =c('Yes'= .7,'No'=0.5)) +
+  #scale_fill_brewer(palette = "Set3") +  # Choose a color palette
   theme_void() +
-  labs(title='All 100 highest-grossing movies in order',
-       subtitle='Non-Walt Disney Studios in white') +
+  #labs() +
   theme(legend.position='none',
         plot.margin = margin(0, 0, 0, 0, "inches")) +
   coord_fixed(ratio = 1) +
   transition_states(
-    order,
-    transition_length = 3,
-    state_length = 10
+    Modern,
+    transition_length = 4,
+    state_length = 15
+  ) +
+  enter_fade() +
+  exit_fade() +
+  labs(title='The top 100 films of all time',
+    subtitle = 'Ordered by {closest_state}')
+  
+  transition_states(
+    Order,
+    transition_length = 4,
+    state_length = 15
   )
+  
+anim_save('ttransition_animate.gif',dpi=300)
 
+#Test saving background
+data <- data.frame(
+  x = runif(10),
+  y = runif(10),
+  size = sample(1:3, 10, TRUE),
+  time = c(1, 4, 6, 7, 9, 6, 7, 8, 9, 10),
+  id = rep(1:2, each = 5)
+)
+
+ggplot(data, aes(x, y, group = id, size = size)) +
+  geom_point() +
+  transition_components(time)
+
+#Test 2
+ggplot(mtcars, aes(mpg, disp)) +
+  geom_point() +
+  geom_smooth(colour = 'grey', se = FALSE) +
+  geom_smooth(aes(colour = factor(gear))) +
+  transition_layers(layer_length = 1, transition_length = 2) +
+  enter_fade() + enter_grow()
 
 library(httr)
 library(jsonlite)
